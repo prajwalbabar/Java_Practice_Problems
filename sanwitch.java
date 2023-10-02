@@ -17,7 +17,7 @@ public class sanwitch {
             f = sc.nextInt();
             g = sc.nextInt();
             a = sc.nextInt();
-            
+            // comment
             int san=0;
             int sau=0;
             if(g>a){
